@@ -1,0 +1,219 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+:root {
+  /* Colors */
+  --color-primary: #007bff;
+  --color-secondary: #6c757d;
+  --color-success: #28a745;
+  --color-info: #17a2b8;
+  --color-warning: #ffc107;
+  --color-danger: #dc3545;
+  --color-light: #f8f9fa;
+  --color-dark: #343a40;
+  --color-background: #ffffff;
+  --color-foreground: #000000;
+
+  /* Font Sizes */
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-md: 16px;
+  --font-size-lg: 18px;
+  --font-size-xl: 24px;
+  --font-size-xxl: 32px;
+
+  /* Spacing */
+  --space-xxs: 4px;
+  --space-xs: 8px;
+  --space-sm: 12px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-xxl: 48px;
+
+  /* Border Radius */
+  --border-radius-sm: 4px;
+  --border-radius-md: 8px;
+  --border-radius-lg: 16px;
+}
+
+#root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #fff;
+
+  padding: var(--space-md);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.schedule-day-container {
+  text-align: left;
+  margin-bottom: var(--space-lg);
+}
+
+.schedule-day-header {
+  margin-top: var(--space-lg);
+  margin-bottom: var(--space-lg);
+  font-size: var(--font-size-xl);
+  font-weight: bold;
+}
+
+.slot-container {
+  display: flex;
+  align-items: stretch;
+}
+
+.session-time {
+  flex: 0 0 auto;
+  text-align: right;
+  font-size: var(--font-size-sm);
+  color: var(--color-secondary);
+  padding-right: var(--space-md);
+  min-width: 15%;
+}
+
+.session-container {
+  width: 100%;
+  border-left: 2px solid var(--color-secondary);
+}
+
+.session-card-wrapper {
+  padding-left: var(--space-md);
+  flex: 1;
+  width: 100%;
+}
+
+.session-card {
+  width: 100%;
+  padding-bottom: var(--space-lg);
+  background-color: var(--color-background);
+  color: var(--color-dark);
+  border-radius: var(--border-radius-md);
+}
+
+.session-card-title {
+  margin-bottom: var(--space-sm);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.session-card-link {
+  display: block;
+  font-size: var(--font-size-lg);
+  font-weight: bold;
+  color: var(--color-primary);
+  text-align: center;
+  text-decoration: none;
+}
+
+.session-card-link:hover {
+  color: var(--color-info);
+}
+
+.session-card {
+  width: 100%;
+  padding: var(--space-lg);
+  margin-bottom: var(--space-xl);
+  background-color: var(--color-background);
+  border-radius: var(--border-radius-md);
+}
+
+.session-card-title {
+  margin-bottom: var(--space-sm);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.session-card-link {
+  display: block;
+  font-size: var(--font-size-lg);
+  font-weight: bold;
+  color: var(--color-primary);
+  text-align: center;
+  text-decoration: none;
+}
+
+.session-card-link:hover {
+  color: var(--color-info);
+}
+
+.speakers-container {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-md);
+}
+
+.speakers-images {
+  display: flex;
+  gap: calc(var(--space-xs) * -1);
+}
+
+.speaker-image {
+  height: 24px;
+  width: 24px;
+  border-radius: 50%;
+  border: 2px solid var(--color-secondary);
+}
+
+.speakers-names {
+  display: inline-flex;
+  gap: var(--space-xs);
+  font-weight: 600;
+  font-size: var(--font-size-sm);
+}
+
+.session-description {
+  margin-bottom: var(--space-lg);
+  font-size: var(--font-size-md);
+  line-height: 1.5;
+  color: var(--color-dark);
+}
+
+.chips-container {
+  display: flex;
+  gap: var(--space-xs);
+  margin-top: var(--space-sm);
+}
+
+.session-type-chip {
+  padding: var(--space-xs) var(--space-sm);
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  border-radius: var(--border-radius-lg);
+  color: var(--color-light);
+}
+
+.chip-gold {
+  background-color: #ffbf00;
+}
+
+.chip-silver {
+  background-color: #c0c0c0;
+}
+
+.chip-bronze {
+  background-color: #cd7f32;
+}
+
+.chip-default {
+  background-color: var(--color-dark);
+}

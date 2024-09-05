@@ -1,0 +1,132 @@
+[
+  {
+    "id": 2168713,
+    "username": "sally_ride.1u3o2d5k",
+    "joined": "2015-08-06 13:55:38",
+    "name": "Sally Ride",
+    "email": "racheldrudi+sally@gmail.com",
+    "url": "",
+    "about": "Sally Kristen Ride was an American physicist and astronaut. Born in Los Angeles, she joined NASA in 1978 and became the first American woman in space in 1983.",
+    "avatar": "//avatars.schd.ws/2/DF/2168713/avatar.jpg"
+  },
+  {
+    "id": 2168714,
+    "username": "nasa.6lyt1bg",
+    "joined": "2015-08-06 13:55:38",
+    "name": "NASA",
+    "email": "racheldrudi+nasa@gmail.com",
+    "url": "http://www.nasa.gov/",
+    "about": "This is a test",
+    "avatar": "//avatars.schd.ws/1/7C/2168714/avatar.jpg"
+  },
+  {
+    "id": 2168715,
+    "username": "chris_hadfield.1u3o2d59",
+    "joined": "2015-08-06 13:55:38",
+    "name": "Chris Hadfield",
+    "email": "",
+    "url": "http://chrishadfield.ca/",
+    "about": "Chris Austin Hadfield OC OOnt MSC CD is a retired Canadian astronaut who was the first Canadian to walk in space.",
+    "avatar": "//avatars.schd.ws/8/6E/2168715/avatar.jpg"
+  },
+  {
+    "id": 2168717,
+    "username": "us_marine_corps.1u3o2d4l",
+    "joined": "2015-08-06 13:55:38",
+    "name": "US Marine Corps",
+    "email": "",
+    "url": "https://www.marines.com/",
+    "about": "The United States Marine Corps (USMC) is a branch of the United States Armed Forces responsible for providing power projection from the sea,[8] using the mobility of the U.S. Navy to rapidly deliver combined-arms task forces. The U.S. Marine Corps is one of the four branches in the U.S. Department of Defense as a member of the Joint Chiefs of Staff. It is one of the seven uniformed services of the United States.",
+    "avatar": "//avatars.schd.ws/2/69/2168717/avatar.jpg"
+  },
+  {
+    "id": 2168719,
+    "username": "lego.1u3o2d5j",
+    "joined": "2015-08-06 13:55:38",
+    "name": "Lego",
+    "email": "",
+    "url": "http://www.lego.com/en-us/",
+    "about": "Toy building bricks",
+    "avatar": "//avatars.schd.ws/6/92/2168719/avatar.jpg"
+  },
+  {
+    "id": 2168722,
+    "username": "omnimax.1u3o2d7l",
+    "joined": "2015-08-06 13:55:39",
+    "name": "IMAX",
+    "email": "",
+    "url": "https://www.imax.com/",
+    "about": "IMAX (an acronym for Image MAXimum) is a motion picture film format and a set of cinema projection standards created by the Canadian company IMAX Corporation and developed by Graeme Ferguson, Roman Kroitor, Robert Kerr, and William C. Shaw.[1] IMAX has the capacity to record and display images of far greater size and resolution than conventional film systems. Since 2002, some feature films have been converted (or upgraded) into IMAX format for display in IMAX theatres and some have also been partially shot in IMAX.",
+    "avatar": "//avatars.schd.ws/1/A2/2168722/avatar.jpg"
+  },
+  {
+    "id": 2402291,
+    "username": "racheldrudicheckin",
+    "joined": "2015-10-23 07:52:36",
+    "name": "Checkin Test",
+    "email": "racheldrudi+checkin@gmail.com",
+    "url": "",
+    "about": "",
+    "avatar": "//avatars.schd.ws/F/0D/2402291/avatar.jpg"
+  },
+  {
+    "id": 3095269,
+    "username": "bill",
+    "joined": "2016-07-05 13:33:11",
+    "name": "Bill",
+    "email": "bill@headnix.com",
+    "url": "",
+    "about": "",
+    "avatar": "//avatars.schd.ws/2/8c/3095269/avatar.jpg.320x320px.jpg?49c"
+  },
+  {
+    "id": 3096302,
+    "username": "billblah",
+    "joined": "2016-07-06 02:32:47",
+    "name": "Blah Blah 1",
+    "email": "bill-blah@autopilot.headnix.com",
+    "url": "",
+    "about": "",
+    "avatar": null
+  },
+  {
+    "id": 3114760,
+    "username": "racheldrudicheckintest",
+    "joined": "2016-07-12 17:32:43",
+    "name": "Checkin Test",
+    "email": "racheldrudi+checkintest@gmail.com",
+    "url": "",
+    "about": "",
+    "avatar": ""
+  },
+  {
+    "id": 3199382,
+    "username": "mlee525spacecamp",
+    "joined": "2016-08-09 12:39:19",
+    "name": "Michelle",
+    "email": "mlee525+spacecamp@gmail.com",
+    "url": "",
+    "about": "",
+    "avatar": null
+  },
+  {
+    "id": 3531084,
+    "username": "stmataiccheckinapp",
+    "joined": "2016-11-14 06:17:22",
+    "name": "STM Checkin",
+    "email": "stmataic+checkinapp@gmail.com",
+    "url": "",
+    "about": "",
+    "avatar": ""
+  },
+  {
+    "id": 3766082,
+    "username": "ryswearcheckintest",
+    "joined": "2017-02-17 13:04:41",
+    "name": "Test (Ryan)",
+    "email": "ryswear+checkintest@gmail.com",
+    "url": "",
+    "about": "",
+    "avatar": ""
+  }
+]
